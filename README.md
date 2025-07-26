@@ -20,7 +20,7 @@ A simple dashboard for monitoring and interacting with X-Plane via the XPlaneCon
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/XPlaneConnectDashboard.git
+   git clone https://github.com/markination/XpConnectDashboard
    cd XPlaneConnectDashboard
    ```
 2. Install dependencies:
