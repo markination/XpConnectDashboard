@@ -5,7 +5,6 @@ A simple dashboard for monitoring and interacting with X-Plane via the XPlaneCon
 ## Features
 
 - Real-time data display from X-Plane
-- Customizable dashboard widgets
 - Easy setup and configuration
 - Lightweight and responsive interface
 
@@ -33,7 +32,7 @@ A simple dashboard for monitoring and interacting with X-Plane via the XPlaneCon
 
 Start the dashboard server:
 ```bash
-python app.py
+python main.py
 ```
 Open your browser and go to `http://localhost:5000`.
 
